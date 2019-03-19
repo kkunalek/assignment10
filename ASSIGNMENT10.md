@@ -1,4 +1,8 @@
 # assignment10
+ออกแบบโปรแกรมที+ใหผ้ใู้ชใ้ส ่string และจะ convert จาก string ใหเ้ป็น Morse code 
+Morse code เป็น code ที+ตวัอกัษรแต่ ละตวัในภาษาองักฤษ ตวัเลขแตล่ะตวั และ อกัษร ที+เป็นเครื+องหมายวรรคตอนลกัษณะตา่งๆ จะถกู แสดงในรปูแบบชดุของ dotsและ dash
+
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
